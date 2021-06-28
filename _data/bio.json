@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Sydney Dempsey",
+    "name": "David CHEN",
     "label": "Student",
-    "picture": "https://sydempsey.github.io/images/sydz_good.jpg",
-    "email": "dempseys@hawaii.edu",
-    "phone": "808-463-8606",
-    "website": "https://sydempsey.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2021, and plan to find work as a software engineer.",
+    "picture": "https://sydempsey.github.io/images/dc_photo.png",
+    "email": "guangwei.chen@uon.edu.au",
+    "phone": "0469898854",
+    "website": "https://david-nsw.github.io",
+    "summary": "I am studying for a PhD in Building at the University of Newcastle. I expect to graduate in Spring, 2021, and plan to find work as a software engineer.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "2304",
+      "city": "Newcastle",
+      "countryCode": "AU",
+      "region": "NSW"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "sydempsey",
-        "url": "http://github.com/sydempsey"
+        "username": "davidnsw",
+        "url": "http://github.com/davidnsw"
       },
       {
         "network": "linkedin",
-        "username": "sydney-dempsey",
-        "url": "https://www.linkedin.com/in/sydneydempsey/"
+        "username": "davidnsw",
+        "url": "https://www.linkedin.com/in/davidnsw/"
       }
     ]
   },
